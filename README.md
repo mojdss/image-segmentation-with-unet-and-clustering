@@ -2,7 +2,7 @@ Here's a complete **Markdown (`.md`)** file template for your **"Image Segmentat
 
 ---
 
-```markdown
+
 # Image Segmentation with U-Net and Clustering
 
 ## 🧠 Project Overview
@@ -95,11 +95,11 @@ Visual outputs include:
 |----------|------------|------------------|
 | ![Original](images/original.jpg) | ![Mask](images/mask.png) | ![Clustered](images/clustered.png) |
 
----
+
 
 ## 📦 Code Structure
 
-```
+
 project/
 │
 ├── data/
